@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home lab]((https://github.com/Destinonciko/ActiveDirectoryLab))
+  - [Hello World!]((https://github.com/Destinonciko/ActiveDirectoryLab))
 <h2> Certifications</h2>
 
 <h2> 🤳 Connect with me:</h2>
