@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home lab]((https://github.com/Destinonciko/ActiveDirectoryLab))
+  - Active Directory Home lab:
+   (https://github.com/Destinonciko/ActiveDirectoryLab)
 
 <h2> Certifications</h2>
 
-- [Google IT Support Professional] 
+- Google IT Support Professional: 
+  (https://coursera.org/share/3070a295e0b4db8807f048e77f117917)
 
 <h2> 🤳 Connect with me:</h2>
 [<img align="left" alt="jean-michel-nciko1310 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
